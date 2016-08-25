@@ -1,4 +1,4 @@
-package br.com.fatecpg.projetopupo;
+package br.com.fatecpg.qualtemp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
         t.setText(r);
     }
 
-//Metodo que vai no botão
+    //Metodo que vai no botão
     public void onClick(View view) {
 //Pegando os valores dos spinners
         String r = getSpinnerVal(R.id.spinner1);
@@ -106,7 +106,3 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-
-
-
-
