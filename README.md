@@ -1,1 +1,1 @@
-# ProjetoAndroid
+# ProjetoAndroid - Use o QualTemp
